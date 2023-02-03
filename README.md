@@ -65,4 +65,4 @@ It refers to a system for moving data from one system to another. The data may o
 ● Understanding the concept of Data Wrangling and Online Shopping database.
 ● Perform Data Wrangling activities on the data.
 
-𝗜𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻 𝘀𝘁𝗲𝗽𝘀 𝗵𝗲𝗿𝗲:
+
